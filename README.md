@@ -1,2 +1,2 @@
 # SpaceRush
-A simple battleship game built using canvas &amp; js
+A simple Airship game built using canvas & JS
